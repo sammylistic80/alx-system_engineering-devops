@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" > READNE.md
+echo "Best School" > '\*\\'\' ' "Best School"\'\' '\\*$\?\*\*\*\*\*:)'
