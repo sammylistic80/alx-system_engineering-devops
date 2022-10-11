@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
+head --Lines=3 iacta | tail --Lines=1
