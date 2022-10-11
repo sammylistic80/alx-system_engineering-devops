@@ -1,2 +1,2 @@
 #!/bin/bash
-Capital user
+PATH=$PATH:/action
